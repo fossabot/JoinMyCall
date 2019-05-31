@@ -17,7 +17,7 @@
 # 🤙 `JoinMyCall`
 ### **An app that checks connection, camera and audio before you jump in the call. 🔥**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fusce id velit ut tortor pretium viverra suspendisse potenti nullam. Turpis massa sed elementum tempus. Vitae aliquet nec ullamcorper sit. Non consectetur a erat nam at lectus urna duis. Consequat interdum varius sit amet mattis vulputate enim nulla. Aliquam sem et tortor consequat id porta nibh venenatis. Natoque penatibus et magnis dis parturient. Nibh sed pulvinar proin gravida. Nunc non blandit massa enim nec dui nunc. Non enim praesent elementum facilisis leo. In iaculis nunc sed augue lacus viverra vitae congue eu. Cum sociis natoque penatibus et magnis dis parturient. Consectetur libero id faucibus nisl tincidunt eget. Morbi tristique senectus et netus et malesuada.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fusce id velit ut tortor pretium viverra suspendisse potenti nullam. Turpis massa sed elementum tempus. Vitae aliquet nec ullamcorper sit. Non consectetur a erat nam at lectus urna duis. Consequat interdum varius sit amet mattis vulputate enim nulla. Aliquam sem et tortor consequat id porta nibh venenatis. Natoque penatibus et magnis dis parturient. Nibh sed pulvinar proin gravida. Nunc non blandit massa enim nec dui nunc. Non enim praesent elementum facilisis leo. In iaculis nunc sed augue lacus viverra vitae congue eu. Cum sociis natoque penatibus et magnis dis parturient. Consectetur libero id faucibus nisl tincidunt eget. Morbi tristique senectus et netus et malesuada...
 
 <br /><br />
 
