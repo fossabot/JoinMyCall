@@ -96,3 +96,20 @@ figure.audioPlacement {
 .bold {
   font-weight: 700;
 }
+
+form div.input {
+  width: 70%;
+  padding: 20px;
+}
+
+form div.input input {
+  padding: 20px !important;
+  font-family: 'Arvo', serif;
+  font-size: 15px;
+}
+
+.credits {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
